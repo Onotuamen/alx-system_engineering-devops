@@ -1,1 +1,0 @@
-script showing hello world
